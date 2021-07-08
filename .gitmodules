@@ -1,0 +1,12 @@
+[submodule "extern/ABY"]
+	path = extern/ABY
+	url = https://github.com/encryptogroup/ABY.git
+[submodule "extern/HashingTables"]
+	path = extern/HashingTables
+	url = https://github.com/SixSiebenUno/HashingTables.git
+[submodule "extern/libOTe"]
+	path = extern/libOTe
+	url = https://github.com/osu-crypto/libOTe.git
+[submodule "extern/googletest"]
+	path = extern/googletest
+	url = https://github.com/google/googletest.git
