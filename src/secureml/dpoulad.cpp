@@ -254,7 +254,7 @@ vector<int> read_MT(Mat& a,Mat& b_1,Mat& c_1,Mat& b_2,Mat& c_2, int party){
 	vector<int> perm(Ep*N,0);
 	
 	
-	ifstream F("MT"+to_string(party)+".txt");
+	ifstream F("../data/MT"+to_string(party)+".txt");
 	char temp;
 	
 	{
